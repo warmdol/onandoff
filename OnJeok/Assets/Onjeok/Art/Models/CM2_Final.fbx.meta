@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: d3ed648563d1cb643ba6e365b78ad989
+guid: f11cbf5711406f547b36bf77df8ae06f
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CM2
+    second: {fileID: 2100000, guid: d028ec738a2a9664aa7d7c57525aac60, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CM2_texture
+    second: {fileID: 2800000, guid: 60aba9d4e0dfeb24ca95ec22973a7cff, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
